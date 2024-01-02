@@ -61,6 +61,10 @@ Now, it's time for the magic! Run the `Registration.java` file, and watch the Ho
 
 https://github.com/j-a-y-e-s-h/hotel-booking/assets/75063311/46ba2700-c524-4501-9811-65d7f376e65a
 
+## Contributors
+- [Jayesh](https://github.com/j-a-y-e-s-h)
+- [Yash](https://github.com/YashPatil2023/)
+- [Kamlesh](https://github.com/kamlesh-IY9/)
 
 
 ## Wrapping Up
