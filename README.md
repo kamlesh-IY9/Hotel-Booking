@@ -11,7 +11,7 @@ Make sure you have Java JDK installed on your machine. If not, download and inst
 Use the following command to clone the repository:
 
 ```bash
-git clone [repository_url]
+[git clone [repository_url]](https://github.com/j-a-y-e-s-h/hotel-booking.git)
 ```
 
 Navigate to the "Hotel Booking" folder.
@@ -57,25 +57,11 @@ Now, it's time for the magic! Run the `Registration.java` file, and watch the Ho
 
 ## 📸 Project Showcase
 
-### Screenshots
 
-Here are some cool images showcasing the project:
 
-- ![Screenshot 1](images/HOTEL%20APPLICATION-1.jpg)
-  ![Screenshot 2](images/HOTEL%20APPLICATION-2.jpg)
-  ![Screenshot 3](images/HOTEL%20APPLICATION-3.jpg)
-  ![Screenshot 4](images/HOTEL%20APPLICATION-4.jpg)
-  ![Screenshot 5](images/HOTEL%20APPLICATION-5.jpg)
-  ![Screenshot 6](images/HOTEL%20APPLICATION-6.jpg)
-  ![Screenshot 7](images/HOTEL%20APPLICATION-7.jpg)
-  ![Screenshot 8](images/HOTEL%20APPLICATION-8.jpg)
-  ![Screenshot 9](images/HOTEL%20APPLICATION-9.jpg)
-  ![Screenshot 10](images/HOTEL%20APPLICATION-10.jpg)
-  ![Screenshot 11](images/HOTEL%20APPLICATION-11.jpg)
+https://github.com/j-a-y-e-s-h/hotel-booking/assets/75063311/46ba2700-c524-4501-9811-65d7f376e65a
 
-### GIFs
 
-Check out these awesome GIFs capturing the project in action:
 
 ## Wrapping Up
 
@@ -83,4 +69,4 @@ Congratulations! You've successfully set up the Hotel Booking System. If you fac
 
 Now, go ahead and add your own touch to the project. Happy coding! 🚀🌟
 
-# hotel-booking
+
