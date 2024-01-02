@@ -57,25 +57,11 @@ Now, it's time for the magic! Run the `Registration.java` file, and watch the Ho
 
 ## 📸 Project Showcase
 
-### Screenshots
 
-Here are some cool images showcasing the project:
 
-- ![Screenshot 1](images/HOTEL%20APPLICATION-1.jpg)
-  ![Screenshot 2](images/HOTEL%20APPLICATION-2.jpg)
-  ![Screenshot 3](images/HOTEL%20APPLICATION-3.jpg)
-  ![Screenshot 4](images/HOTEL%20APPLICATION-4.jpg)
-  ![Screenshot 5](images/HOTEL%20APPLICATION-5.jpg)
-  ![Screenshot 6](images/HOTEL%20APPLICATION-6.jpg)
-  ![Screenshot 7](images/HOTEL%20APPLICATION-7.jpg)
-  ![Screenshot 8](images/HOTEL%20APPLICATION-8.jpg)
-  ![Screenshot 9](images/HOTEL%20APPLICATION-9.jpg)
-  ![Screenshot 10](images/HOTEL%20APPLICATION-10.jpg)
-  ![Screenshot 11](images/HOTEL%20APPLICATION-11.jpg)
+https://github.com/j-a-y-e-s-h/hotel-booking/assets/75063311/30b16d5c-b2fc-4363-9b72-bb2affd48e19
 
-### GIFs
 
-Check out these awesome GIFs capturing the project in action:
 
 ## Wrapping Up
 
