@@ -11,7 +11,7 @@ Make sure you have Java JDK installed on your machine. If not, download and inst
 Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/j-a-y-e-s-h/hotel-booking.git
+git clone https://github.com/kamlesh-IY9/Hotel-Booking.git
 ```
 
 Navigate to the "Hotel Booking" folder.
